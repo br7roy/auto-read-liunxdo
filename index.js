@@ -17,7 +17,7 @@
 
 (function () {
   ("use strict");
-  // 定义可能的基本URL
+  // 定义可能的基本URL666
   const possibleBaseURLs = [
     "https://linux.do",
     "https://meta.discourse.org",
